@@ -1,0 +1,10 @@
+Package: MTH2401
+Type: Package
+Title: Functions for MTH2401-01
+Version: 1.0.0
+Author: Samuel Kellar
+Maintainer: Samuel Kellar <skellar2014@my.fit.edu>
+Description: Useful functions for Probability/Statistics class, based on cumulative learing
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
