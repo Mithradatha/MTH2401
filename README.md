@@ -21,3 +21,8 @@ as well as to make some of the data manipulation more user-friendly, by abstract
 > * To see the documentation related to each function, Type: ```help(<function_name>)```
 
 --
+
+## Additional Details
+> * [DevTools](https://cran.r-project.org/web/packages/devtools/index.html) contains many functions that help to make package development easier, including the ability to install R packages directly from github (...hence the use of ```install_github``` function)
+> * [Roxygen2](https://cran.r-project.org/web/packages/roxygen2/index.html) has a whole bunch of tools to aid in function/package level documentation
+> * I will be adding information on the process of developing new functions, for this package, in the future
